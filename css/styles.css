@@ -1,16 +1,45 @@
-.column{
+.column1{
   float:left;
   padding: 20px;
   align-items: center;
-}
-.column ul{
+  border: 2px solid black;
   text-align: left;
+  background-color: lightblue;
+  margin-left: 50px;
 }
+.column2{
+  float:left;
+  padding: 20px;
+  align-items: center;
+  border: 2px solid black;
+  text-align: left;
+  background-color: lightyellow;
+
+}
+.column3{
+  float:left;
+  padding: 20px;
+  align-items: center;
+  border: 2px solid black;
+  text-align: left;
+  background-color: lightpink;
+
+}
+.column4{
+  float:left;
+  padding: 20px;
+  align-items: center;
+  border: 2px solid black;
+  text-align: left;
+  background-color: #f4df42;
+
+}
+
 body{
   background-color: lightgreen;
   font-family: fantasy;
   text-align: center;
-  margin: 15px;
+
 
 }
 
